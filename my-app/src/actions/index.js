@@ -1,0 +1,3 @@
+export const MOVE_FORWARD = 'MOVE_FORWARD';
+
+export const MOVE_BACKWARD = 'MOVE_BACKWARD';
